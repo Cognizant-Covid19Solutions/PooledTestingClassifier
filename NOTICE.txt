@@ -1,0 +1,5 @@
+Apache Cognizant - COVID-19 Pooled Testing Classifier Solution
+Copyright 2020 Cognizant Technology Solutions Licensed under the Apache License, Version 2.0 (the "License")
+
+This product includes software developed at
+The Apache Software Foundation (http://www.apache.org/).
